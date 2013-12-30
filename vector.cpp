@@ -1,3 +1,14 @@
+/*
+ *
+ * Summary: 
+      1. string can be consider a descendant of vectors 
+         1.1 every single oper you can do with vectors you can do with strings
+         1.2 important string extras, e.g.  "+" ,  c_str, find, substr, compare
+ *
+ *
+ */
+ 
+ 
 #include <iostream>
 #include <vector>
 
