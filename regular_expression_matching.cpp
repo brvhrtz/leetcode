@@ -1,5 +1,5 @@
 /*
- *  wild card matching
+ *  Regular expression matching
  *  Gotcha:
      0. Understand the problem correctly first
         0.1  so ".*" = "....." and each '.' can match to anything
