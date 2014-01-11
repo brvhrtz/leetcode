@@ -1,3 +1,8 @@
+
+/*
+ *
+   Distinct Subsequences DP explanation
+
 First, try to solve the problem yourself to come up with a naive implementation:
 
 Let's say that S.length = m and T.length = n. Let's write S{i} for the substring of S starting at i. For example, if S = "abcde", S{0} = "abcde", S{4} = "e", and S{5} = "". We use a similar definition for T.
@@ -61,3 +66,6 @@ for (int i = m-1; i >= 0; i--) {
     }
 }
 share|improve this answer
+
+
+*/
